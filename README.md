@@ -28,8 +28,8 @@ This solution asks the user to input a number, then divides that number by every
 ## secondstring.py contains the solution to Problem 6
 This solution first gets the user to input a set of words, then splits them into seperate words (using a space as the delimiter to know when one word ends and another begins). It then uses the "[::2]" from the split string function to output every second word. This was derived from an online post in stackoverflow.com as I genuinely attempted but couldn't figure out the solution.
 
-### secondstring_old.py 
-contains my attempt to work out how to output every second word before I located a solution on stackoverflow.
+#### secondstring_old.py 
+this contains my attempt to work out how to output every second word before I located a solution on stackoverflow.
 
 ## squareroot.py contains the solution to Problem 7
 This solution asks the user to input a number, then imports the math module so that the "sqrt" function can be used to calculate the square root.
@@ -38,12 +38,12 @@ This solution asks the user to input a number, then imports the math module so t
 This solution imports the current datetime and outputs it in a specific format. The "today.strftime" function output the majority of what I had needed. I tried to write code to work out the st or rd or nd at the end of the day number e.g. 23rd, 2nd etc. but wasn't successful
 
 ## second.py contains the solution to Problem 9 - It uses the patrick_kavanagh.txt file as it's input file.
-    This solution begins by importing the fileinput module to read the contents of the text file. It sets a counter at 0, then increments by 1 for every line in the text file. If the count is even i.e. the Modulo <> 0, it outputs the line.
+This solution begins by importing the fileinput module to read the contents of the text file. It sets a counter at 0, then increments by 1 for every line in the text file. If the count is even i.e. the Modulo <> 0, it outputs the line.
 
 ## plot.py (to be run from iPython prompt) contains the solution to Problem 10
-    This solution imports the numpy and matplotlib modules, then uses the arange to define the required range and then plots the functions as specified in the problem set.
+This solution imports the numpy and matplotlib modules, then uses the arange to define the required range and then plots the functions as specified in the problem set.
 
-# References
+# REFERENCES
 I used the following online resources in arriving at the solutions to this problem set, specific cases where I adapted answers from posts on online forums are included in my remarks (in particular Problem 6).
 
 * [Stack Overflow] https://stackoverflow.com/
