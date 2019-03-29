@@ -46,8 +46,10 @@ This solution imports the numpy and matplotlib modules, then uses the arange to 
 # REFERENCES
 I used the following online resources in arriving at the solutions to this problem set, specific cases where I adapted answers from posts on online forums are included in my remarks (in particular Problem 6).
 
-* [Stack Overflow] https://stackoverflow.com/
-* [W3 Schools Python Tutorials] https://www.w3schools.com/python/
-* [W3 Resource Python Intro and exercises] https://www.w3resource.com/python-exercises/
-* [Python Software Foundation's Beginners Guide] https://wiki.python.org/moin/BeginnersGuide/Examples
+* [Dr. Ian McLoughlin's GMIT lectures] (https://web.microsoftstream.com/video/6db924ef-af13-47da-a620-0e5b59e1c0ff)
+* [Stack Overflow] (https://stackoverflow.com/)
+* [W3 Schools Python Tutorials] (https://www.w3schools.com/python/)
+* [W3 Resource Python Intro and exercises] (https://www.w3resource.com/python-exercises/)
+* [Python Software Foundation's Beginners Guide] (https://wiki.python.org/moin/BeginnersGuide/Examples)
+* [Writing readme.md files on Github] (https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
