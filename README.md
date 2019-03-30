@@ -1,5 +1,5 @@
 # Problem Set 2019        Programming and Scripting
-This repository consists of my attempted solutions to the Programming & Scripting problem set 2019, as set out in the Problem Set Instructions found here [Link to Problem Set]https://github.com/ianmcloughlin/problems-pands-2019/raw/master/problems.pdf
+This repository consists of my attempted solutions to the Programming & Scripting problem set 2019, as set out in the Problem Set Instructions found here [Link to Problem Set](https://github.com/ianmcloughlin/problems-pands-2019/raw/master/problems.pdf)
 
 # How to download this repository
 1. Logon to GitHub [GitHub Homepage](https://github.com/gabrielmulligan/problemset2019)
